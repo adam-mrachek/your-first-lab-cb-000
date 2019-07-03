@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Editing this file, yo.
+=======
+Editing this file, yo.
+>>>>>>> 2b89bf292b605da1ba4c52eaf64fba613ff50131
